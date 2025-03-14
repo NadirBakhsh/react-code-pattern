@@ -1,7 +1,9 @@
 <details>
 
 <summary>
-## Progress Stepper with React Server Components + Suspense in Next.js 14 
+  <h2>
+   Progress Stepper with React Server Components + Suspense in Next.js 14 
+  </h2>
 </summary>
 
 ```ts
