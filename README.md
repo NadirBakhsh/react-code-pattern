@@ -1,5 +1,8 @@
+<details>
 
+<summary>
 ## Progress Stepper with React Server Components + Suspense in Next.js 14 
+</summary>
 
 ```ts
 // app/confirm/components.tsx
@@ -118,5 +121,6 @@ export default async function ConfirmPage({ params: { id } }: { params: { id: st
   );
 }
 ```
+</details>
 
 ---
